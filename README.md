@@ -7,4 +7,4 @@
 
 Leo Krakovinsky et Mathis Gossiaux--Chopard-Guillaumot ont travaillé ensemble sur le header/footer
 
-Lien du site (hébergé sur github) : [Accueil - PorteShop](https://shadowlrsp.github.io/index.html)
+Lien du site (hébergé sur github) : [Accueil - PorteShop](https://blecoq.github.io/index.html)
